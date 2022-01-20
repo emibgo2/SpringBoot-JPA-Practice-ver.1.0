@@ -1,5 +1,5 @@
-#SpringBoot-JPA-Practice-ver.1.0
-##Realize a book shopping mall using JPA.
+# SpringBoot-JPA-Practice-ver.1.0
+## Realize a book shopping mall using JPA.
 
 Requirement analysis, domain model and table design, entity design
 
